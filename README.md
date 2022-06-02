@@ -19,6 +19,8 @@ web server or even local file system.
 
 ## How To Contribute
 
+Please fork this repo.
+
 ## Copyright
 
 Git training
