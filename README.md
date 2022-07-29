@@ -23,4 +23,4 @@ Please fork this repo.
 
 ## Copyright
 
-Git training
+Git training. All rights reserved.
